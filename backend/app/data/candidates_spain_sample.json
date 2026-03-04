@@ -1,0 +1,12 @@
+[
+  {"id": "MAD_A", "name": "Madrid - A1", "lat": 40.4168, "lon": -3.7038, "demand_index": 2.6},
+  {"id": "BCN_A", "name": "Barcelona - Central", "lat": 41.3874, "lon": 2.1686, "demand_index": 2.8},
+  {"id": "VAL_A", "name": "Valencia", "lat": 39.4699, "lon": -0.3763, "demand_index": 2.0},
+  {"id": "SEV_A", "name": "Seville", "lat": 37.3891, "lon": -5.9845, "demand_index": 1.6},
+  {"id": "ZAR_A", "name": "Zaragoza", "lat": 41.6488, "lon": -0.8891, "demand_index": 1.4},
+  {"id": "BIL_A", "name": "Bilbao", "lat": 43.2630, "lon": -2.9350, "demand_index": 1.3},
+  {"id": "MAL_A", "name": "Malaga", "lat": 36.7213, "lon": -4.4214, "demand_index": 1.5},
+  {"id": "VLL_A", "name": "Valladolid", "lat": 41.6523, "lon": -4.7245, "demand_index": 0.9},
+  {"id": "MUR_A", "name": "Murcia", "lat": 37.9922, "lon": -1.1307, "demand_index": 1.0},
+  {"id": "PAL_A", "name": "Palma", "lat": 39.5696, "lon": 2.6502, "demand_index": 1.2}
+]
